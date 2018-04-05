@@ -3,7 +3,7 @@ module.exports = {
     title: 'The Wizzard Tower',
     desc: "Wizz's Blog!"
   },
-  pathPrefix: "/gatsby",
+  pathPrefix: "/levelupgatsby",
   plugins: [
     'gatsby-plugin-react-helmet', 
     'gatsby-plugin-styled-components',
