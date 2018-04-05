@@ -10,7 +10,7 @@ const TemplateWrapper = ({ children, data, location }) => (
     <Helmet
       title="The Wizzard Tower"
       meta={[
-        { name: 'description', content: 'Sample' },
+        { name: 'description', content: 'Ramblings of a crappy wizzard' },
         { name: 'keywords', content: 'sample, something' },
       ]}
     />
