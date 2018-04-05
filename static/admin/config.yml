@@ -1,5 +1,6 @@
 backend: 
-  name: test-repo
+  name: github
+  repo: billy-park/gatsbynetlify
 
 media_folder: static/assets
 
