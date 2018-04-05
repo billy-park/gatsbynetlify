@@ -12,6 +12,7 @@ class PostPage extends Component {
                         __html: data.markdownRemark.html
                     }} 
                 />
+                <img src={data.markdownRemark.frontmatter.image} />
             </div>
         );
     }
@@ -25,6 +26,7 @@ export const query = graphql`
             frontmatter {
                 title
                 date(formatString: "DD MMMM YYYY")
+                image
             }
           }
     }
