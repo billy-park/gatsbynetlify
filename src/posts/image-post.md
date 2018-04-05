@@ -3,8 +3,8 @@ title: Image post
 date: '2018-04-05'
 image: /assets/sfvblanka.png
 ---
-test
+![Blanka](/assets/sfvblanka.png)
 
-![sfvsoldiers](/assets/SFVShadalooSoldiers.png)
+test
 
 test
