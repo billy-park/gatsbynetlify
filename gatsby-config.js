@@ -3,7 +3,6 @@ module.exports = {
     title: 'The Wizzard Tower',
     desc: "Wizz's Blog!"
   },
-  pathPrefix: "/levelupgatsby",
   plugins: [
     'gatsby-plugin-react-helmet', 
     'gatsby-plugin-styled-components',
@@ -31,3 +30,5 @@ module.exports = {
     'gatsby-plugin-sharp'
   ],
 };
+
+/*pathPrefix: "/gatsby",*/
